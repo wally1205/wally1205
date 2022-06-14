@@ -1,8 +1,8 @@
 ### Hi there 👋
-
+ 
 Hola mi nombre es Walter Tutzauer.
 Curso la carrera de Ingenieria en computacion, en la UNRN (Universidad Nacional de Rio Negro)
-
+## *Estas son pruebasque estoy realizando*
 
 <!--
 **wally1205/wally1205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
