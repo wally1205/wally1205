@@ -117,7 +117,7 @@ Las expresiones regulares son un medio para describir patrones de texto. Imagine
 
 ### *Referencias Bibliográficas*
 Drauta (11 febrero 2020) *5-softwares-de-control-de-versiones* https://www.drauta.com
-Sobre el Control de Versiones - *Una breve historia de Git* https://git-scm.com 
+Sobre el Control de Versiones - *Una breve historia de Git* https://git-scm.com
 Nebul4ck (30 agosto 2018) *GREP & SED* https://nebul4ck.wordpress.com/2015/02/19/uso-de-grep-y-sed/
 *Expresiones Regulares* https://bioinf.comav.upv.es/courses/unix/expresiones_regulares.html
 
